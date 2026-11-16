@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Dessins d'Enfants as a Topological Lens on Temporal Hypergraphs (code)"
+authors:
+  - family-names: Aktas
+    given-names: Mehmet Emin
+  - family-names: Akbas
+    given-names: Esra
+license: MIT
+preferred-citation:
+  type: article
+  title: "Dessins d'Enfants as a Topological Lens on Temporal Hypergraphs"
+  authors:
+    - family-names: Aktas
+      given-names: Mehmet Emin
+    - family-names: Akbas
+      given-names: Esra
+  year: 2026
+  journal: "arXiv preprint"

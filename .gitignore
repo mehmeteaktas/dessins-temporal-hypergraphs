@@ -1,0 +1,17 @@
+# data and outputs
+data/
+results/
+*.7z
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
